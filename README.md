@@ -28,7 +28,7 @@ In this project, I hope to use machine learning to create a model that can predi
 ## Getting Started
 1. Download and unzip this repo, either interactively, or by entering the following in your Terminal.
     ```bash
-    git clone https://github.com/adeshpande3/March-Madness-ML.git
+    git clone https://github.com/aaronchoi5/ncaa.git
     ```
 2. Navigate into the top directory of the repo on your machine
     ```bash
